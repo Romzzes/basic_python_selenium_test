@@ -12,6 +12,5 @@ search__button.click()
 
 assert "Test automation" in driver.title
 assert "Test 1 automation" in driver.title
-assert "Test 2 automation" in driver.title
 
 driver.quit()
