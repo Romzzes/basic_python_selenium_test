@@ -81,8 +81,8 @@ print(pi)
 # contains text: //button[contains(test(),"Submit")]   //div[contains(test(),"Submit")]
 #
 
-for element in set:
-    print(element)
+#for element in set:
+#    print(element)
 
 print(len(set))
 print(set)
